@@ -39,3 +39,8 @@ Bu web uygulaması, ileri seviye **DOM Manipülasyonu** ve **Dinamik Stil Yönet
 
 ## 📸 Preview / Önizleme
 ![Project Screenshot](furkan_web_project.png)
+
+## 🚀 How to Run / Nasıl Çalıştırılır
+1. Clone this repository. / Repoyu bilgisayarınıza klonlayın.
+2. Open `furkan_web_project.html` in any modern web browser. / Herhangi bir modern tarayıcıda dosyayı açın.
+3. Use the dynamic buttons to filter tasks by User ID. / Kullanıcı ID'lerine göre görevleri filtrelemek için dinamik butonları kullanın.
