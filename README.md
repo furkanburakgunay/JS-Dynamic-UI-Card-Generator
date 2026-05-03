@@ -38,4 +38,4 @@ Bu web uygulaması, ileri seviye **DOM Manipülasyonu** ve **Dinamik Stil Yönet
 ---
 
 ## 📸 Preview / Önizleme
-![Project Screenshot](furkan_web_project.jpg)
+![Project Screenshot](furkan_web_project.png)
