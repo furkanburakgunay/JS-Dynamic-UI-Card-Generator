@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dinamik Form Ödevi</title>
+</head>
+<body style="font-family: Arial, sans-serif; padding: 20px;">
+
+    <h2>Veri Giriş Formu</h2>
+    
+    <form id="veriFormu" style="display: flex; flex-direction: column; width: 300px; gap: 10px;">
+        
+        <input type="text" placeholder="1. Veri" required>
+        <input type="text" placeholder="2. Veri" required>
+        <input type="text" placeholder="3. Veri" required>
+        <input type="text" placeholder="4. Veri" required>
+        <input type="text" placeholder="5. Veri" required>
+        <input type="text" placeholder="6. Veri" required>
+        <input type="text" placeholder="7. Veri" required>
+        <input type="text" placeholder="8. Veri" required>
+        <input type="text" placeholder="9. Veri" required>
+        
+        <div>
+            <label>10. Veri (Kart Rengi): </label>
+            <input type="color" id="renkGirdisi" value="#cccccc" required>
+        </div>
+
+        <button type="submit" style="padding: 10px; cursor: pointer;">Kart Oluştur</button>
+    </form>
+
+    <hr style="margin-top: 20px;">
+
+    <div id="kartAlani" style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
+        </div>
+
+    <script src="furkan.js"></script>
+</body>
+</html>
